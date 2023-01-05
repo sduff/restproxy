@@ -1,0 +1,6 @@
+all:
+  vars:
+    ccloud_kafka_enabled: true
+    ccloud_kafka_bootstrap_servers: <bootstrap_server:9092>
+    ccloud_kafka_key: <API Key>
+    ccloud_kafka_secret: <API Secret>
